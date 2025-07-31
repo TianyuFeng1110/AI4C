@@ -76,3 +76,6 @@ print(res.X)
 
 ## 深度学习模型加载位置
 将model_fold0.pt置于此目录下/path/to/model/dl/saved_models/，请手动创建该目录(该目录与/path/to/model/xgboost目录同级)，模型文件请从网盘下载。
+> 通过网盘分享的文件：model_fold0.pt
+链接: https://pan.baidu.com/s/1-QPMjulYXBZoSR0HTeBMuQ?pwd=v3hm 提取码: v3hm 
+--来自百度网盘超级会员v6的分享
