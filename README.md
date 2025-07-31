@@ -1,4 +1,5 @@
 ## 代码逐行解释
+> 该代码为xgboost模型代码，深度学习模型同理。
 ```python
 import sys
 
@@ -71,3 +72,7 @@ print("最优解的目标值：")
 print(res.F)
 print("对应的决策变量：")
 print(res.X)
+```
+
+## 深度学习模型加载位置
+将model_fold0.pt置于此目录下/path/to/model/dl/saved_models/，请手动创建该目录(该目录与/path/to/model/xgboost目录同级)，模型文件请从网盘下载。
