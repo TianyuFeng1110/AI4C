@@ -75,8 +75,7 @@ print(res.X)
 ```
 
 ## 切换优化场景和目标
-> xgboost只需要更换模型(即重新指向新的模型地址)即可
-> Ai深度学习模型则需更改参数id号找到对应待优化栅格即可
+xgboost只需要更换模型(即重新指向新的模型地址)即，Ai深度学习模型则需更改参数id号找到对应待优化栅格即可。
 
 ## 深度学习模型加载位置
 将model_fold0.pt置于此目录下/path/to/model/dl/saved_models/，请手动创建该目录(该目录与/path/to/model/xgboost目录同级)，模型文件请从网盘下载。
